@@ -1,2 +1,2 @@
 # Web_Data_Processing_System
-* See details in folder *
+* See details in folder
